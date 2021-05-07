@@ -1,5 +1,5 @@
 function preload() {
-    sound = document.getElementById('audioplayer1').play();
+    sound = loadSound('data/Domingo_Flamingo.mp3');
 }
 
 function setup() {
